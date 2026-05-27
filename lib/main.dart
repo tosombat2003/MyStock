@@ -15,9 +15,9 @@ void main() async {
 
   // ตั้งค่า Supabase
   await Supabase.initialize(
-    url: 'https://xqewbtmoxawraoohujiy.supabase.co', // URL ของ Supabase Project
+    url: // URL ของ Supabase Project
     anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhxZXdidG1veGF3cmFvb2h1aml5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU4ODc2NTIsImV4cCI6MjA1MTQ2MzY1Mn0.LafTX3f1WoRI4jhufTawvIH0xZ4VcaVQHyziEm_rEIc', // Anon Key ของ Supabase
+        // Anon Key ของ Supabase
   );
   SystemChrome.setPreferredOrientations([]);
   runApp(const MyApp());
