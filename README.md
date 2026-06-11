@@ -19,6 +19,15 @@ My Stock was built to solve a real problem — tracking inventory manually is sl
 
 ---
 
+## 📱 Application Screenshots
+
+| Home Screen | Add Medication | Appointment | Reminder |
+|------------|------------|------------|------------|
+| <img height="500" alt="3" src="https://github.com/user-attachments/assets/5444fbff-7515-432a-9f28-d5a40679a2a9" /> |  <img height="500" alt="Screenshot 2026-03-07 232607" src="https://github.com/user-attachments/assets/8985dfb2-11e6-4e10-90b7-beb531d52418" />| <img height="500" alt="8" src="https://github.com/user-attachments/assets/fda1bf57-cb8c-4f89-aa32-1e803f4159d0" /> | <img height="500" alt="ปลุก" src="https://github.com/user-attachments/assets/e8f7a93c-381e-4274-9885-9defa6d3c0c9" /> |
+
+---
+
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
